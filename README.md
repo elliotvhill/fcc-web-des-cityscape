@@ -3,7 +3,9 @@ Following along with freeCodeCamp's _[Learn CSS Variables by Building a City Sky
 
 The image transitions from a daytime color scheme to a nighttime one at 1000px width.
 
-#### Course description
+_**Codepen:** https://codepen.io/ell8031/pen/YzoZjLV_
+
+### Course description
 
 > _CSS variables help you organize your styles and reuse them._
 >
